@@ -25,4 +25,6 @@ Embora o foco principal tenha sido a recriação do layout para desktop, o proje
 
 Conclusão:
 
-Este trabalho foi fundamental para colocar a teoria em prática, especialmente no que diz respeito ao posicionamento de elementos, criação de layouts complexos e atenção aos detalhes visuais. Serviu como uma excelente base para compreender os desafios reais do desenvolvimento front-end.
+Este trabalho foi fundamental para colocar a teoria em prática, especialmente no que diz respeito ao posicionamento de elementos, criação de layouts complexos e atenção aos detalhes visuais.
+
+Serviu como uma excelente base para compreender os desafios reais do desenvolvimento front-end.
